@@ -1,0 +1,933 @@
+{
+ "trec-20211": {
+  "0": {
+   "NCT02777398": {
+    "inclusion": {
+     "0": [
+      "SYNTHETIC reasoning for inclusion criterion 0.",
+      [
+       0
+      ],
+      "not included"
+     ],
+     "1": [
+      "SYNTHETIC reasoning for inclusion criterion 1.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "2": [
+      "SYNTHETIC reasoning for inclusion criterion 2.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "3": [
+      "SYNTHETIC reasoning for inclusion criterion 3.",
+      [
+       0
+      ],
+      "included"
+     ]
+    },
+    "exclusion": {
+     "0": [
+      "SYNTHETIC reasoning for exclusion criterion 0.",
+      [],
+      "not excluded"
+     ],
+     "1": [
+      "SYNTHETIC reasoning for exclusion criterion 1.",
+      [],
+      "not excluded"
+     ],
+     "2": [
+      "SYNTHETIC reasoning for exclusion criterion 2.",
+      [],
+      "not excluded"
+     ],
+     "3": [
+      "SYNTHETIC reasoning for exclusion criterion 3.",
+      [],
+      "not excluded"
+     ],
+     "4": [
+      "SYNTHETIC reasoning for exclusion criterion 4.",
+      [],
+      "not excluded"
+     ],
+     "5": [
+      "SYNTHETIC reasoning for exclusion criterion 5.",
+      [],
+      "not excluded"
+     ],
+     "6": [
+      "SYNTHETIC reasoning for exclusion criterion 6.",
+      [],
+      "not excluded"
+     ],
+     "7": [
+      "SYNTHETIC reasoning for exclusion criterion 7.",
+      [],
+      "not excluded"
+     ]
+    }
+   },
+   "NCT03727841": {
+    "inclusion": {
+     "0": [
+      "SYNTHETIC reasoning for inclusion criterion 0.",
+      [
+       0
+      ],
+      "not included"
+     ],
+     "1": [
+      "SYNTHETIC reasoning for inclusion criterion 1.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "2": [
+      "SYNTHETIC reasoning for inclusion criterion 2.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "3": [
+      "SYNTHETIC reasoning for inclusion criterion 3.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "4": [
+      "SYNTHETIC reasoning for inclusion criterion 4.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "5": [
+      "SYNTHETIC reasoning for inclusion criterion 5.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "6": [
+      "SYNTHETIC reasoning for inclusion criterion 6.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "7": [
+      "SYNTHETIC reasoning for inclusion criterion 7.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "8": [
+      "SYNTHETIC reasoning for inclusion criterion 8.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "9": [
+      "SYNTHETIC reasoning for inclusion criterion 9.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "10": [
+      "SYNTHETIC reasoning for inclusion criterion 10.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "11": [
+      "SYNTHETIC reasoning for inclusion criterion 11.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "12": [
+      "SYNTHETIC reasoning for inclusion criterion 12.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "13": [
+      "SYNTHETIC reasoning for inclusion criterion 13.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "14": [
+      "SYNTHETIC reasoning for inclusion criterion 14.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "15": [
+      "SYNTHETIC reasoning for inclusion criterion 15.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "16": [
+      "SYNTHETIC reasoning for inclusion criterion 16.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "17": [
+      "SYNTHETIC reasoning for inclusion criterion 17.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "18": [
+      "SYNTHETIC reasoning for inclusion criterion 18.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "19": [
+      "SYNTHETIC reasoning for inclusion criterion 19.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "20": [
+      "SYNTHETIC reasoning for inclusion criterion 20.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "21": [
+      "SYNTHETIC reasoning for inclusion criterion 21.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "22": [
+      "SYNTHETIC reasoning for inclusion criterion 22.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "23": [
+      "SYNTHETIC reasoning for inclusion criterion 23.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "24": [
+      "SYNTHETIC reasoning for inclusion criterion 24.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "25": [
+      "SYNTHETIC reasoning for inclusion criterion 25.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "26": [
+      "SYNTHETIC reasoning for inclusion criterion 26.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "27": [
+      "SYNTHETIC reasoning for inclusion criterion 27.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "28": [
+      "SYNTHETIC reasoning for inclusion criterion 28.",
+      [
+       0
+      ],
+      "included"
+     ]
+    },
+    "exclusion": {
+     "0": [
+      "SYNTHETIC reasoning for exclusion criterion 0.",
+      [],
+      "not excluded"
+     ],
+     "1": [
+      "SYNTHETIC reasoning for exclusion criterion 1.",
+      [],
+      "not excluded"
+     ],
+     "2": [
+      "SYNTHETIC reasoning for exclusion criterion 2.",
+      [],
+      "not excluded"
+     ],
+     "3": [
+      "SYNTHETIC reasoning for exclusion criterion 3.",
+      [],
+      "not excluded"
+     ],
+     "4": [
+      "SYNTHETIC reasoning for exclusion criterion 4.",
+      [],
+      "not excluded"
+     ],
+     "5": [
+      "SYNTHETIC reasoning for exclusion criterion 5.",
+      [],
+      "not excluded"
+     ],
+     "6": [
+      "SYNTHETIC reasoning for exclusion criterion 6.",
+      [],
+      "not excluded"
+     ],
+     "7": [
+      "SYNTHETIC reasoning for exclusion criterion 7.",
+      [],
+      "not excluded"
+     ],
+     "8": [
+      "SYNTHETIC reasoning for exclusion criterion 8.",
+      [],
+      "not excluded"
+     ],
+     "9": [
+      "SYNTHETIC reasoning for exclusion criterion 9.",
+      [],
+      "not excluded"
+     ],
+     "10": [
+      "SYNTHETIC reasoning for exclusion criterion 10.",
+      [],
+      "not excluded"
+     ],
+     "11": [
+      "SYNTHETIC reasoning for exclusion criterion 11.",
+      [],
+      "not excluded"
+     ],
+     "12": [
+      "SYNTHETIC reasoning for exclusion criterion 12.",
+      [],
+      "not excluded"
+     ],
+     "13": [
+      "SYNTHETIC reasoning for exclusion criterion 13.",
+      [],
+      "not excluded"
+     ],
+     "14": [
+      "SYNTHETIC reasoning for exclusion criterion 14.",
+      [],
+      "not excluded"
+     ],
+     "15": [
+      "SYNTHETIC reasoning for exclusion criterion 15.",
+      [],
+      "not excluded"
+     ],
+     "16": [
+      "SYNTHETIC reasoning for exclusion criterion 16.",
+      [],
+      "not excluded"
+     ],
+     "17": [
+      "SYNTHETIC reasoning for exclusion criterion 17.",
+      [],
+      "not excluded"
+     ],
+     "18": [
+      "SYNTHETIC reasoning for exclusion criterion 18.",
+      [],
+      "not excluded"
+     ],
+     "19": [
+      "SYNTHETIC reasoning for exclusion criterion 19.",
+      [],
+      "not excluded"
+     ],
+     "20": [
+      "SYNTHETIC reasoning for exclusion criterion 20.",
+      [],
+      "not excluded"
+     ],
+     "21": [
+      "SYNTHETIC reasoning for exclusion criterion 21.",
+      [],
+      "not excluded"
+     ],
+     "22": [
+      "SYNTHETIC reasoning for exclusion criterion 22.",
+      [],
+      "not excluded"
+     ],
+     "23": [
+      "SYNTHETIC reasoning for exclusion criterion 23.",
+      [],
+      "not excluded"
+     ],
+     "24": [
+      "SYNTHETIC reasoning for exclusion criterion 24.",
+      [],
+      "not excluded"
+     ],
+     "25": [
+      "SYNTHETIC reasoning for exclusion criterion 25.",
+      [],
+      "not excluded"
+     ],
+     "26": [
+      "SYNTHETIC reasoning for exclusion criterion 26.",
+      [],
+      "not excluded"
+     ]
+    }
+   }
+  },
+  "1": {
+   "NCT00841555": {
+    "inclusion": {
+     "0": [
+      "SYNTHETIC reasoning for inclusion criterion 0.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "1": [
+      "SYNTHETIC reasoning for inclusion criterion 1.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "2": [
+      "SYNTHETIC reasoning for inclusion criterion 2.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "3": [
+      "SYNTHETIC reasoning for inclusion criterion 3.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "4": [
+      "SYNTHETIC reasoning for inclusion criterion 4.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "5": [
+      "SYNTHETIC reasoning for inclusion criterion 5.",
+      [
+       0
+      ],
+      "included"
+     ]
+    },
+    "exclusion": {
+     "0": [
+      "SYNTHETIC reasoning for exclusion criterion 0.",
+      [],
+      "excluded"
+     ],
+     "1": [
+      "SYNTHETIC reasoning for exclusion criterion 1.",
+      [],
+      "not excluded"
+     ],
+     "2": [
+      "SYNTHETIC reasoning for exclusion criterion 2.",
+      [],
+      "not excluded"
+     ],
+     "3": [
+      "SYNTHETIC reasoning for exclusion criterion 3.",
+      [],
+      "not excluded"
+     ],
+     "4": [
+      "SYNTHETIC reasoning for exclusion criterion 4.",
+      [],
+      "not excluded"
+     ]
+    }
+   },
+   "NCT00430911": {
+    "inclusion": {
+     "0": [
+      "SYNTHETIC reasoning for inclusion criterion 0.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "1": [
+      "SYNTHETIC reasoning for inclusion criterion 1.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "2": [
+      "SYNTHETIC reasoning for inclusion criterion 2.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "3": [
+      "SYNTHETIC reasoning for inclusion criterion 3.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "4": [
+      "SYNTHETIC reasoning for inclusion criterion 4.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "5": [
+      "SYNTHETIC reasoning for inclusion criterion 5.",
+      [
+       0
+      ],
+      "included"
+     ]
+    },
+    "exclusion": {
+     "0": [
+      "SYNTHETIC reasoning for exclusion criterion 0.",
+      [],
+      "excluded"
+     ],
+     "1": [
+      "SYNTHETIC reasoning for exclusion criterion 1.",
+      [],
+      "not excluded"
+     ],
+     "2": [
+      "SYNTHETIC reasoning for exclusion criterion 2.",
+      [],
+      "not excluded"
+     ]
+    }
+   }
+  },
+  "2": {
+   "NCT04211974": {
+    "inclusion": {
+     "0": [
+      "SYNTHETIC reasoning for inclusion criterion 0.",
+      [
+       0
+      ],
+      "included"
+     ]
+    },
+    "exclusion": {
+     "0": [
+      "SYNTHETIC reasoning for exclusion criterion 0.",
+      [],
+      "not excluded"
+     ],
+     "1": [
+      "SYNTHETIC reasoning for exclusion criterion 1.",
+      [],
+      "not excluded"
+     ],
+     "2": [
+      "SYNTHETIC reasoning for exclusion criterion 2.",
+      [],
+      "not excluded"
+     ]
+    }
+   },
+   "NCT00003470": {
+    "inclusion": {
+     "0": [
+      "SYNTHETIC reasoning for inclusion criterion 0.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "1": [
+      "SYNTHETIC reasoning for inclusion criterion 1.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "2": [
+      "SYNTHETIC reasoning for inclusion criterion 2.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "3": [
+      "SYNTHETIC reasoning for inclusion criterion 3.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "4": [
+      "SYNTHETIC reasoning for inclusion criterion 4.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "5": [
+      "SYNTHETIC reasoning for inclusion criterion 5.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "6": [
+      "SYNTHETIC reasoning for inclusion criterion 6.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "7": [
+      "SYNTHETIC reasoning for inclusion criterion 7.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "8": [
+      "SYNTHETIC reasoning for inclusion criterion 8.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "9": [
+      "SYNTHETIC reasoning for inclusion criterion 9.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "10": [
+      "SYNTHETIC reasoning for inclusion criterion 10.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "11": [
+      "SYNTHETIC reasoning for inclusion criterion 11.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "12": [
+      "SYNTHETIC reasoning for inclusion criterion 12.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "13": [
+      "SYNTHETIC reasoning for inclusion criterion 13.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "14": [
+      "SYNTHETIC reasoning for inclusion criterion 14.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "15": [
+      "SYNTHETIC reasoning for inclusion criterion 15.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "16": [
+      "SYNTHETIC reasoning for inclusion criterion 16.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "17": [
+      "SYNTHETIC reasoning for inclusion criterion 17.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "18": [
+      "SYNTHETIC reasoning for inclusion criterion 18.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "19": [
+      "SYNTHETIC reasoning for inclusion criterion 19.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "20": [
+      "SYNTHETIC reasoning for inclusion criterion 20.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "21": [
+      "SYNTHETIC reasoning for inclusion criterion 21.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "22": [
+      "SYNTHETIC reasoning for inclusion criterion 22.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "23": [
+      "SYNTHETIC reasoning for inclusion criterion 23.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "24": [
+      "SYNTHETIC reasoning for inclusion criterion 24.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "25": [
+      "SYNTHETIC reasoning for inclusion criterion 25.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "26": [
+      "SYNTHETIC reasoning for inclusion criterion 26.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "27": [
+      "SYNTHETIC reasoning for inclusion criterion 27.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "28": [
+      "SYNTHETIC reasoning for inclusion criterion 28.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "29": [
+      "SYNTHETIC reasoning for inclusion criterion 29.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "30": [
+      "SYNTHETIC reasoning for inclusion criterion 30.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "31": [
+      "SYNTHETIC reasoning for inclusion criterion 31.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "32": [
+      "SYNTHETIC reasoning for inclusion criterion 32.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "33": [
+      "SYNTHETIC reasoning for inclusion criterion 33.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "34": [
+      "SYNTHETIC reasoning for inclusion criterion 34.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "35": [
+      "SYNTHETIC reasoning for inclusion criterion 35.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "36": [
+      "SYNTHETIC reasoning for inclusion criterion 36.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "37": [
+      "SYNTHETIC reasoning for inclusion criterion 37.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "38": [
+      "SYNTHETIC reasoning for inclusion criterion 38.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "39": [
+      "SYNTHETIC reasoning for inclusion criterion 39.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "40": [
+      "SYNTHETIC reasoning for inclusion criterion 40.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "41": [
+      "SYNTHETIC reasoning for inclusion criterion 41.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "42": [
+      "SYNTHETIC reasoning for inclusion criterion 42.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "43": [
+      "SYNTHETIC reasoning for inclusion criterion 43.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "44": [
+      "SYNTHETIC reasoning for inclusion criterion 44.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "45": [
+      "SYNTHETIC reasoning for inclusion criterion 45.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "46": [
+      "SYNTHETIC reasoning for inclusion criterion 46.",
+      [
+       0
+      ],
+      "included"
+     ],
+     "47": [
+      "SYNTHETIC reasoning for inclusion criterion 47.",
+      [
+       0
+      ],
+      "included"
+     ]
+    },
+    "exclusion": {}
+   }
+  }
+ }
+}

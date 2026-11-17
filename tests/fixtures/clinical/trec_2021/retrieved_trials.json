@@ -1,0 +1,121 @@
+[
+ {
+  "patient_id": "trec-20211",
+  "patient": "Patient is a 45-year-old man with a history of anaplastic astrocytoma of the spine complicated by severe lower extremity weakness and urinary retention s/p Foley catheter, high-dose steroids, hypertension, and chronic pain. The tumor is located in the T-L spine, unresectable anaplastic astrocytoma s/p radiation. Complicated by progressive lower extremity weakness and urinary retention. Patient initially presented with RLE weakness where his right knee gave out with difficulty walking and right anterior thigh numbness. MRI showed a spinal cord conus mass which was biopsied and found to be anaplastic astrocytoma. Therapy included field radiation t10-l1 followed by 11 cycles of temozolomide 7 days on and 7 days off. This was followed by CPT-11 Weekly x4 with Avastin Q2 weeks/ 2 weeks rest and repeat cycle.",
+  "0": [
+   {
+    "brief_title": "Surgical Treatment of Intra-spinal Canal Tumors Via Trans-Quadrant Channel",
+    "phase": "",
+    "drugs": "['Trans-Quadrant Channel Surgery', 'Conventional Open Surgery']",
+    "drugs_list": [
+     "Trans-Quadrant Channel Surgery",
+     "Conventional Open Surgery"
+    ],
+    "diseases": "['Spinal Neoplasms']",
+    "diseases_list": [
+     "Spinal Neoplasms"
+    ],
+    "enrollment": "58.0",
+    "inclusion_criteria": "inclusion criteria: \n\n The patient should meet the diagnostic criteria of intra-spinal canal tumors and the indications for surgery. Meanwhile, the length of tumor should no more than 5 cm, and the cross-sectional area should be less than 2/3 of the respective area of the spinal canal. \n\n The patient was never be treated with any spinal surgery. \n\n There was no cognitive impairment before onset of diseases or other diseases which can cause cognitive dysfunction. \n\n The patient should sign the informed consent forms. \n\n ",
+    "exclusion_criteria": ": \n\n The patient is diagnozed as non intra-spinal canal tumors, spinal degenerative diseases, or other spinal diseases. \n\n The patient received spinal surgery previously. \n\n The patient suffered from serious heart, lung, liver, or kidney insufficiency. \n\n The patient has other spinal and spinal cord diseases rather than intra-spinal canal tumor, such as disc herniation, vertebral fractures. \n\n The patient has severe diabetes, coronary heart disease, coagulation disorders, difficult to correct before operation, or cannot tolerate surgery. \n\n The patient has other surgical contraindications. \n\n The patient is pregnant or breast-feeding. \n\n The patient is unable to sign the informed consent voluntarily.",
+    "brief_summary": "Intra-spinal canal tumors are the general term of primary tumors from spinal cord or various tissues in the spinal canal and adjacent to the spinal cord, while the metastatic tumors are those from other sites other than spinal canal. Intra-spinal canal tumor is one of the most common diseases in neurosurgery, and surgery is the most effective treatment. Conventional open surgery is required to remove the posterior structures of the spine, which would lead to fracture of the posterior tension band, soft tissue injury, spine instability, and even spine deformity. So it is very important to protect and rebuild the posterior tension band for the stability of the spine. The team of Dr. John P. Kostuik from the Department of Orthopedics and Neurosurgery, the Johns Hopkins University, firstly introduced minimally invasive surgery for cervical and lumbar degenerative disease. However it has not been applied to the treatment of intra-spinal canal tumors. To date, the microsurgery of intra-spinal tumor through the trans-Quadrant channel pathway has not been widely performed in clinical practice. The investigators performed the microsurgery of intra-spinal canal tumor through the trans-Quadrant pathway in some patients previously and succeeded in the surgical treatments. The investigators analyzed the clinical data retrospectively, including surgical incision length, the volume of bleeding during operation, post-operative drainage volume, post-operative out-of-bed time point, post-operative length of stay in hospital, and post-operative visual analog pain (VAP) score. The group of patients using microsurgical technique through trans-Quadrant channel pathway showed better outcome compared with the group of patients using conventional open surgery. This innovation of microsurgery showed fewer traumas and bleeding, more rapid recovery, better prognosis and more safety in practice. Since there are some limitations to the retrospective study, it is necessary to design a prospective randomized controlled trial of the treatment of intra-spinal canal tumors using microsurgical technique through trans-Quadrant channel pathway.",
+    "NCTID": "NCT02777398"
+   },
+   {
+    "brief_title": "Marizomib for Recurrent Low-Grade and Anaplastic Supratentorial, Infratentorial, and Spinal Cord Ependymoma",
+    "phase": "Phase 2",
+    "drugs": "['Marizomib']",
+    "drugs_list": [
+     "Marizomib"
+    ],
+    "diseases": "['Anaplastic Ependymoma', 'Ependymoma', 'Ependymomas']",
+    "diseases_list": [
+     "Anaplastic Ependymoma",
+     "Ependymoma",
+     "Ependymomas"
+    ],
+    "enrollment": "4.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Stage 1 Eligibility (Cohort 1 and 2) \n\n Cohort 1 \n\n Histologically confirmed by National Cancer Institute (NCI) Laboratory of Pathology intra-cranial or spinal V-Rel Avian Reticuloendotheliosis Viral Oncogene Homolog A (RELA)- fusion ependymoma of grade I, II or III. \n\n Has received two or fewer prior chemotherapy regimens \n\n Cohort 2 \n\n Histologically confirmed by NCI Laboratory of Pathology intra-cranial or spinal RELA-fusion ependymoma of grade I, II or III. \n\n Has received more than two prior chemotherapy regimens \n\n Stage 2 Eligibility (Cohorts 3 and 4) \n\n Cohort 3 \n\n Histologically confirmed by NCI Laboratory of Pathology intra-cranial or spinal non RELA-fusion ependymoma of grade I, II or III. \n\n Has received two or fewer prior chemotherapy regimens \n\n Cohort 4 \n\n Histologically confirmed by NCI Laboratory of Pathology intra-cranial or spinal non RELA-fusion ependymoma of grade I, II or III. \n\n Has received more than two prior chemotherapy regimens. \n\n Patients must have an evidence of tumor progression. \n\n Patients must have had prior radiation therapy. \n\n Patients must be greater than or equal to 18 years old. Currently, no dosing or adverse event data is available on the use of marizomib in patients < 18 years of age; therefore, only adults are included in this study. Patients < 18 years of age will be eligible for future pediatric trials. \n\n Patients must have a Karnofsky performance status of greater than or equal to 60. \n\n Patients must have adequate organ and marrow function as defined below: \n\n leukocytes: greater than or equal to 3,000/microliters \n\n absolute neutrophil count: greater than or equal to 1,500/microliters \n\n platelets: greater than or equal to 100,000/microliters \n\n hemoglobin: greater than or equal to 10 gm/dL (can be achieved by transfusion) \n\n Aspartate aminotransferase (AST) Serum glutamic oxaloacetic transaminase (SGOT)/alanine aminotransferase (ALT) Serum glutamic pyruvic transaminase (SGPT): less than or equal to 2.5 X institutional upper limit of normal \n\n Bilirubin: <1.5 mg/dL \n\n Creatinine up to 1.5-times upper institutional limits OR estimated glomerular filtration rate (eGFR) within normal as predicted by the Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) equation (greater than or equal to 60 mL/min/1.73m(2). \n\n Negative urine protein or urine protein concentration less than or equal to 60 mg/dL \n\n The effects of marizomib on the developing human fetus are unknown. For this reason, women of child-bearing potential and men must agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) prior to study entry and for the duration of study participation and up to 30 days after the last dose of the drug. Should a woman become pregnant or suspect she is pregnant while she or her partner is participating in this study, she should inform her treating physician immediately. \n\n Ability of subject to understand and the willingness to sign a written informed consent document. \n\n ",
+    "exclusion_criteria": ": \n\n Anticancer treatment within designated period of time before enrollment including: \n\n surgery within 14 days \n\n needle or core biopsy within 7 days \n\n prior cytotoxic therapy within 28 days, \n\n vincristine within 14 days \n\n nitrosoureas within 42 days, \n\n procarbazine administration within 21 days \n\n non-cytotoxic agents, e.g., interferon, tamoxifen, thalidomide, cis-retinoic acid (radiosensitizer does not count) within 7 days; Avastin within 21 days. Any questions related to the definition of non-cytotoxic agents should be directed to the NCI Principal Investigator. \n\n Treatment with any investigational agent within 28 days before enrollment. \n\n History of any other cancer (except non-melanoma skin cancer or carcinoma in-situ of the cervix), unless patient is in complete remission and off all therapy for that disease for a minimum of 3 years. \n\n History of allergic reactions attributed to compounds of similar chemical or biologic composition to marizomib. \n\n Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements. \n\n Inadequately controlled hypertension (defined as systolic blood pressure > 140 mmHg and/or diastolic blood pressure > 90 mmHg). \n\n Current active hepatic or biliary disease (with exception of patients with Gilbert's syndrome, asymptomatic gallstones, or stable chronic liver disease per investigator assessment). \n\n New York Heart Association (NYHA) Grade II heart failure or greater or history of hospitalization for congestive heart failure diagnosis within 12 months prior to enrollment. \n\n History of myocardial infarction or unstable angina within 3 months prior to enrollment. \n\n A marked baseline prolongation of QT interval (QT)/corrected QT interval (QTc) (e.g., repeated demonstration of a QTc interval >480 milliseconds (ms) (CTCAE grade 1) using Frederica's QT correction \n\n formula. \n\n A history of additional risk factors for Torsades de Pointes (TdP) (e.g., heart failure, hypokalemia, family history of Long QT Syndrome). \n\n Current use of concomitant medications that prolong the QT/QTc interval \n\n History of stroke or transient ischemic attack within 3 months prior to enrollment. \n\n Pregnant women are excluded from this study because marizomibs potential for teratogenic or abortifacient effects is unknown. Because there is an unknown but potential risk for adverse events in nursing infants secondary to treatment of the mother with marizomib, breastfeeding should be discontinued if the mother is treated with marizomib. \n\n Patients receiving combination antiretroviral therapy for treatment of Human Immunodeficiency Virus (HIV) or active anti-viral treatment for Hepatitis A, B or C infection. Anti-viral therapy, when combined with marizomib, poses a potential for pharmacokinetic interactions. Marizomib also increases immunosuppression, placing patients at an increased risk of acquiring lethal infections. Appropriate studies will be undertaken in patients receiving combination antiretroviral therapy when indicated. \n\n inclusion criteria for Pregnancy Cohort (P) \n\n Because the drug manufacturer would like to study the effect of the study therapy on pregnancy, and because the required information cannot be collected unless a subject is enrolled per ruling of the OGC, the following additional groups of subjects may be enrolled if necessary. \n\n -A child whose parent (male or female) is/was an active participant in the study at any time during the childs gestation. Active participant is defined as having received at least one dose of study therapy through 6 months after the last dose of study therapy. \n\n OR \n\n An expectant mother of child whose father is/was an active participant in the study at any time during the childs gestation. The father must have received at least one dose of study therapy. Active participant is defined as having received at least one dose of study therapy through 6 months after the last dose of study therapy. \n\n The expectant mother must be age 18 or older and must have the capacity to provide informed consent.",
+    "brief_summary": "Background:~Ependymomas are rare tumors that arise from the ependyma. That is a tissue of the central nervous system. They can develop in the brain or the spine. They are usually treated with surgery, radiation, and/or chemotherapy. Researchers want to see if the new drug marizomib can help people with a certain kind of ependymoma.~Objective:~To see if marizomib stops tumor growth and prolongs the time that the tumor is controlled.~Eligibility:~Adults age 18 and older who have been diagnosed with ependymomas and have already been treated with standard therapies~Design:~Participants will be screened with the following tests or recent results from similar tests:~Medical history~Physical exam~Neurological assessment~Electrocardiogram (EKG) to evaluate the heart~Review of symptoms and ability to perform normal activities~Computed tomographic scan (CT) or magnetic resonance imaging (MRI) to produce an image of the brain or spine.~Blood and urine tests~Tests of tumor samples. Participants may have to have new tumor samples taken.~Participants will get the study drug in cycles. Each cycle is 4 weeks. Participants will have up to 24 cycles.~Participants will get the study drug through a small plastic tube in a vein on days 1, 8, and 15 of each cycle.~During each cycle, some screening tests will be repeated.~Participants will answer questions about their general well-being and functioning.~About 4 5 weeks after finishing the study drug, participants will have a follow-up visit. They will answer questions about their health, get a physical and a neurological exam, and have blood tests. They may have an MRI or CT scan.~...",
+    "NCTID": "NCT03727841"
+   }
+  ],
+  "1": [
+   {
+    "brief_title": "Temozolomide and Radiation Therapy in Treating Patients With Newly Diagnosed Glioblastoma Multiforme or Anaplastic Astrocytoma",
+    "phase": "Phase 1",
+    "drugs": "['temozolomide', 'Hypofractionated radiation therapy', 'Intensity-modulated radiation therapy']",
+    "drugs_list": [
+     "temozolomide",
+     "Hypofractionated radiation therapy",
+     "Intensity-modulated radiation therapy"
+    ],
+    "diseases": "['Glioblastoma Multiforme/Anaplastic Astrocytoma']",
+    "diseases_list": [
+     "Glioblastoma Multiforme/Anaplastic Astrocytoma"
+    ],
+    "enrollment": "9.0",
+    "inclusion_criteria": "inclusion criteria: \n\n Patients who have De novo glioblastoma multiforme, anaplastic astrocytoma, anaplastic oligodendrogliomas, mixed anaplastic oligoastrocytomas, gliosarcoma of the Brain, not involving the brain stem or optics chiasm, diagnosed following biopsy or tumor removal. \n\n Age > 18 years \n\n Given written consent \n\n Adequate bone marrow reserve(hemoglobin > 10 grams, Absolute neutrophil count > 1500 / mm3, platelets > 100,000/ mm3) \n\n Normal renal function(BUN < 24 mg/dL, Creatinine < 1.3 mg/dL) \n\n Normal liver function(Total Bilirubin < 1.5 mg/dL, SGPT/ALT < 60 U/L) \n\n ",
+    "exclusion_criteria": ": \n\n Have a Karnofsky score of < 60 [Appendix B] or age < 18 years. \n\n Prior chemotherapy and/or radiotherapy of their glioblastomamultiforme, anaplastic astrocytoma, anaplastic oligodendrogliomas, mixed anaplastic oligoastrocytomas, gliosarcoma. \n\n Tumors located in the brainstem or optic chiasm. \n\n Prior radiation therapy to the brain \n\n Prior chemotherapy within the past 6 weeks.",
+    "brief_summary": "RATIONALE: Drugs used in chemotherapy, such as temozolomide, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Radiation therapy uses high-energy x-rays to kill tumor cells. Specialized radiation therapy that delivers a high dose of radiation directly to the tumor may kill more tumor cells and cause less damage to normal tissue. Giving chemotherapy together with radiation therapy may kill more tumor cells.~PURPOSE: This phase I trial is studying the side effects and best dose of temozolomide when given together with radiation therapy in treating patients with newly diagnosed glioblastoma multiforme or anaplastic astrocytoma.",
+    "NCTID": "NCT00841555"
+   },
+   {
+    "brief_title": "Radiotherapy for Malignant Astrocytomas in the Elderly",
+    "phase": "Phase 3",
+    "drugs": "['Radiotherapy']",
+    "drugs_list": [
+     "Radiotherapy"
+    ],
+    "diseases": "['Primary Brain Tumor', 'Anaplastic Astrocytoma', 'Glioblastoma Multiforme']",
+    "diseases_list": [
+     "Primary Brain Tumor",
+     "Anaplastic Astrocytoma",
+     "Glioblastoma Multiforme"
+    ],
+    "enrollment": "",
+    "inclusion_criteria": "inclusion criteria: \n\n Glioblastoma and anaplastic astrocytoma, supratentorial, histologically confirmed \n\n Brain CT scan or MRI within 28 days before surgery \n\n Age: 70 years or older \n\n Karnofsky performance status, 70 or more. \n\n Life expectancy over 12 weeks \n\n Informed consent \n\n ",
+    "exclusion_criteria": ": \n\n Brain radiotherapy \n\n Chemotherapy \n\n Severe systemic disease",
+    "brief_summary": "A randomized trial comparing radiotherapy with supportive care in patients aged 70 years or older with newly diagnosed, histologically confirmed anaplastic astrocytoma or glioblastoma, and a Karnofsky performance status > 70.",
+    "NCTID": "NCT00430911"
+   }
+  ],
+  "2": [
+   {
+    "brief_title": "Genomic Landscape of Intramedullary Astrocytoma",
+    "phase": "",
+    "drugs": "['whole-exome sequencing']",
+    "drugs_list": [
+     "whole-exome sequencing"
+    ],
+    "diseases": "['Spinal Cord Astrocytoma']",
+    "diseases_list": [
+     "Spinal Cord Astrocytoma"
+    ],
+    "enrollment": "50.0",
+    "inclusion_criteria": "inclusion criteria: \n\n patients that histologically diagnosed as primary spinal cord astrocytoma \n\n ",
+    "exclusion_criteria": ": \n\n patients with spinal cord tumors rather than astrocytoma \n\n metastatic astrocytoma \n\n tumor sample can not be obtained",
+    "brief_summary": "intramedullary astrocytoma is a rare and devastating spinal cord glioma. while the management of intracranial astrocytoma includes gross total resection, radiotherapy and chemotherapy, spinal cord astrocytoma is very difficult to be totally removed due to its infiltrative nature and unclear plane of dissection; Moreover, the use radiotherapy and chemotherapy for spinal cord astrocytoma is controversial. Therefore, the treatment for spinal cord astrocytoma is very limited as compared to its intracranial counterpart. Inadequate understanding of spinal cord astrocytoma mainly contribute to limited treatment, while the molecular profiling of intracranial astrocytoma is relatively well understood. Hence, we performed whole-exome sequencing of intramedullary astrocytoma aiming to identify the pathophysiological mechanisms underlying spinal cord astrocytoma",
+    "NCTID": "NCT04211974"
+   },
+   {
+    "brief_title": "Antineoplaston Therapy in Treating Patients With Anaplastic Astrocytoma",
+    "phase": "Phase 2",
+    "drugs": "['Antineoplaston therapy (Atengenal + Astugenal)']",
+    "drugs_list": [
+     "Antineoplaston therapy (Atengenal + Astugenal)"
+    ],
+    "diseases": "['Anaplastic Astrocytoma']",
+    "diseases_list": [
+     "Anaplastic Astrocytoma"
+    ],
+    "enrollment": "27.0",
+    "inclusion_criteria": "DISEASE CHARACTERISTICS: \n\n Histologically or cytologically confirmed incurable adult anaplastic astrocytoma \n\n Evidence of progressive or recurrent tumor by MRI scan performed within 2 weeks prior to study entry \n\n Must have received and failed standard therapy \n\n Tumor must be at least 5 mm \n\n PATIENT CHARACTERISTICS: \n\n Age: \n\n 18 and over \n\n Performance status: \n\n Karnofsky 60-100% \n\n Life expectancy: \n\n At least 2 months \n\n Hematopoietic: \n\n WBC at least 2000/mm^3 \n\n Platelet count at least 50,000/mm^3 \n\n Hepatic: \n\n Bilirubin no greater than 2.5 mg/dL \n\n SGOT and SGPT no greater than 5 times upper limit of normal \n\n No hepatic failure \n\n Renal: \n\n Creatinine no greater than 2.5 mg/dL \n\n No history of renal conditions that contraindicate high dosages of sodium \n\n Cardiovascular: \n\n No uncontrolled hypertension \n\n No history of congestive heart failure \n\n No history of other cardiovascular conditions that contraindicate high dosages of sodium \n\n Pulmonary: \n\n No serious lung disease such as severe chronic obstructive pulmonary disease \n\n Other: \n\n Not pregnant or nursing \n\n Fertile patients must use effective contraception during and for 4 weeks after study \n\n No active infection \n\n No other serious concurrent disease \n\n PRIOR CONCURRENT THERAPY: \n\n Biologic therapy: \n\n At least 4 weeks since prior immunotherapy and recovered \n\n No concurrent immunomodulating agents \n\n Chemotherapy: \n\n At least 4 weeks since prior chemotherapy (6 weeks for nitrosoureas) and recovered \n\n No concurrent antineoplastic agents \n\n Endocrine therapy: \n\n Concurrent corticosteroids allowed \n\n Radiotherapy: \n\n At least 8 weeks since prior radiotherapy and recovered \n\n Surgery: \n\n Fully recovered from any prior surgery \n\n Other: \n\n Prior cytodifferentiating agent allowed \n\n No prior antineoplaston therapy",
+    "exclusion_criteria": "",
+    "brief_summary": "RATIONALE: Current therapies for adults with anaplastic astrocytomas that have not responded to standard therapy provide very limited benefit to the patient. The anti-cancer properties of Antineoplaston therapy suggest that it may prove beneficial in the treatment of adults with anaplastic astrocytomas that have not responded to standard therapy.~PURPOSE: This study is being performed to determine the effects (good and bad) that Antineoplaston therapy has on adults with anaplastic astrocytomas that have not responded to standard therapy.",
+    "NCTID": "NCT00003470"
+   }
+  ]
+ }
+]

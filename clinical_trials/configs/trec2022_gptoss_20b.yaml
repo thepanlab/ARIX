@@ -1,0 +1,52 @@
+method: arix
+model:
+  name_or_path: openai/gpt-oss-20b
+  torch_dtype: bfloat16
+  gradient_checkpointing: true
+data:
+  dataset_dir: data/trialgpt/dataset
+  train_corpora: [sigir, trec_2021]
+  test_corpora: [trec_2022]
+  matching_results:
+    sigir: data/trialgpt/results/matching_results_sigir_gpt-4-turbo.json
+    trec_2021: data/trialgpt/results/matching_results_trec_2021_gpt-4-turbo.json
+  train_fraction: 0.8
+  split_seed: 1111
+  positive_labels: [2]
+  unparsable_label: 0
+  system_in_user: false
+training:
+  epochs: 10
+  learning_rate: 1.0e-6
+  batch_size: 32
+  group_size: 64
+  micro_batch_size: 1
+  generation_batch_size: 64
+  clip_eps: 0.2
+  kl_beta: 0.04
+  kl_estimator: k3
+  adv_eps: 1.0e-4
+  seed: 1111
+generation:
+  max_new_tokens: 2048
+  temperature: 1.0
+  top_p: 1.0
+  prefill_chunk_size: 64
+  ds3_gather: true
+arix:
+  alpha_pos: 1.0e-3
+  tau: 0.2
+  partial_scale: 0.1
+  partial_bias: 0.2
+  bank_size: 5
+  retrieval: similarity
+  bank_update: redundancy
+  retrieval_start_epoch: 2
+  proj_dim: 64
+  pooling: softmax
+output:
+  output_dir: outputs/clinical/trec2022_gptoss_20b
+  save_every_steps: 500
+evaluation:
+  batch_size: 64
+  embed_batch_size: 1

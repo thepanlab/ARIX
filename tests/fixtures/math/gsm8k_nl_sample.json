@@ -1,0 +1,98 @@
+[
+ {
+  "item_id": "gsm8k_0",
+  "question": "Natalia sold clips to 48 of her friends in April, and then she sold half as many clips in May. How many clips did Natalia sell altogether in April and May?",
+  "answer_cot": "To solve this problem, we need to add the number of clips Natalia sold in April to the number of clips she sold in May. \n\nNatalia sold 48 clips in April. \n\nIn May, she sold half as many clips as she did in April. To find out how many clips she sold in May, we need to divide the number of clips she sold in April by 2: \n\n48 \u00f7 2 = 24 \n\nSo Natalia sold 24 clips in May. \n\nTo find out how many clips she sold altogether in April and May, we need to add the number of clips she sold in April to the number of clips she sold in May: \n\n48 + 24 = 72 \n\nThe answer is <72>.",
+  "answer_value": "72"
+ },
+ {
+  "item_id": "gsm8k_1",
+  "question": "Weng earns $12 an hour for babysitting. Yesterday, she just did 50 minutes of babysitting. How much did she earn?",
+  "answer_cot": "To find out how much Weng earned, we need to calculate her hourly rate and then multiply it by the amount of time she worked. \n\nFirst, we need to convert 50 minutes to hours. There are 60 minutes in an hour, so 50 minutes is equal to 50/60 = 5/6 hours. \n\nNext, we can calculate Weng's earnings by multiplying her hourly rate by the amount of time she worked: \n\n$12/hour x 5/6 hour = $10 \n\nTherefore, Weng earned $10 for 50 minutes of babysitting. \n\nThe answer is <10>.",
+  "answer_value": "10"
+ },
+ {
+  "item_id": "gsm8k_2",
+  "question": "Betty is saving money for a new wallet which costs $100. Betty has only half of the money she needs. Her parents decided to give her $15 for that purpose, and her grandparents twice as much as her parents. How much more money does Betty need to buy the wallet?",
+  "answer_cot": "Let's start by finding out how much money Betty has currently. We know that she has half of the money she needs to buy the wallet, which means she has:\n\n$100 / 2 = $<<100/2=50>>50\n\nNow we need to find out how much money Betty's grandparents gave her. We know that they gave her twice as much as her parents, who gave her $15. So:\n\n$15 x 2 = $<<15*2=30>>30\n\nAdding this to the $15 from her parents, we get:\n\n$15 + $30 = $<<15+30=45>>45\n\nNow we can add up all of Betty's money:\n\n$50 + $45 = $<<50+45=95>>95\n\nFinally, we can subtract this amount from the cost of the wallet to find out how much more money Betty needs:\n\n$100 - $95 = $<<100-95=5>>5\n\nTherefore, Betty needs $5 more to buy the wallet. \n\nThe answer is <5>.",
+  "answer_value": "5"
+ },
+ {
+  "item_id": "gsm8k_3",
+  "question": "Julie is reading a 120-page book. Yesterday, she was able to read 12 pages and today, she read twice as many pages as yesterday. If she wants to read half of the remaining pages tomorrow, how many pages should she read?",
+  "answer_cot": "Let's start by finding out how many pages Julie read today. \n\nIf she read twice as many pages as yesterday, then she read:\n\n12 x 2 = 24 pages today.\n\nTo find out how many pages she has left to read, we need to subtract the pages she has already read from the total number of pages in the book:\n\n120 - 12 - 24 = 84 pages left to read.\n\nIf Julie wants to read half of the remaining pages tomorrow, she needs to read:\n\n84 / 2 = 42 pages tomorrow.\n\nTherefore, the answer is <42>.",
+  "answer_value": "42"
+ },
+ {
+  "item_id": "gsm8k_4",
+  "question": "James writes a 3-page letter to 2 different friends twice a week.  How many pages does he write a year?",
+  "answer_cot": "To solve this problem, we need to first find out how many pages James writes to each friend per week. \n\nJames writes a 3-page letter to 2 different friends twice a week, so he writes:\n\n3 pages/letter x 2 letters/week = 6 pages/week to each friend\n\nTherefore, he writes a total of:\n\n6 pages/week x 2 friends = 12 pages/week\n\nNow we can find out how many pages James writes in a year:\n\n12 pages/week x 52 weeks/year = 624 pages/year\n\nTherefore, James writes 624 pages in a year.\n\nThe answer is <624>.\n\nTherefore, the answer is <624>.",
+  "answer_value": "624"
+ },
+ {
+  "item_id": "gsm8k_5",
+  "question": "Mark has a garden with flowers. He planted plants of three different colors in it. Ten of them are yellow, and there are 80% more of those in purple. There are only 25% as many green flowers as there are yellow and purple flowers. How many flowers does Mark have in his garden?",
+  "answer_cot": "Let's start by finding out how many purple flowers Mark has in his garden. We know that there are 80% more purple flowers than yellow flowers, which means there are 10 x 80/100 = <<10*80/100=8>>8 more purple flowers than yellow flowers.\nSo, the total number of purple flowers is 10 + 8 = <<10+8=18>>18.\nNext, we need to find out how many green flowers Mark has in his garden. We know that there are 25% as many green flowers as there are yellow and purple flowers, which means there are 25/100 x (10 + 18) = <<25/100*(10+18)=7>>7 green flowers.\nFinally, we can find the total number of flowers in Mark's garden by adding up the number of yellow, purple, and green flowers: 10 + 18 + 7 = <<10+18+7=35>>35.\nTherefore, the answer is <35>.",
+  "answer_value": "35"
+ },
+ {
+  "item_id": "gsm8k_6",
+  "question": "Albert is wondering how much pizza he can eat in one day. He buys 2 large pizzas and 2 small pizzas. A large pizza has 16 slices and a small pizza has 8 slices. If he eats it all, how many pieces does he eat that day?",
+  "answer_cot": "No problem, let's break this down step by step. \n\nFirst, let's find out how many slices are in the 2 large pizzas. \n\n2 large pizzas x 16 slices per pizza = 32 slices \n\nNext, let's find out how many slices are in the 2 small pizzas. \n\n2 small pizzas x 8 slices per pizza = 16 slices \n\nNow, let's add the number of slices from the large pizzas and the small pizzas together to find the total number of slices. \n\n32 slices + 16 slices = 48 slices \n\nSo, if Albert eats all 4 pizzas, he will eat a total of 48 slices of pizza that day. \n\nThe answer is <48>.",
+  "answer_value": "48"
+ },
+ {
+  "item_id": "gsm8k_7",
+  "question": "Ken created a care package to send to his brother, who was away at boarding school.  Ken placed a box on a scale, and then he poured into the box enough jelly beans to bring the weight to 2 pounds.  Then, he added enough brownies to cause the weight to triple.  Next, he added another 2 pounds of jelly beans.  And finally, he added enough gummy worms to double the weight once again.  What was the final weight of the box of goodies, in pounds?",
+  "answer_cot": "Let's break down the problem into steps:\n\n1. Ken poured enough jelly beans to bring the weight to 2 pounds.\n2. He added enough brownies to cause the weight to triple, which means the weight became 2 x 3 = 6 pounds.\n3. He added another 2 pounds of jelly beans, which brings the weight to 6 + 2 = 8 pounds.\n4. Finally, he added enough gummy worms to double the weight once again, which means the weight became 8 x 2 = 16 pounds.\n\nTherefore, the final weight of the box of goodies is <16> pounds.",
+  "answer_value": "16"
+ },
+ {
+  "item_id": "gsm8k_8",
+  "question": "Alexis is applying for a new job and bought a new set of business clothes to wear to the interview. She went to a department store with a budget of $200 and spent $30 on a button-up shirt, $46 on suit pants, $38 on a suit coat, $11 on socks, and $18 on a belt. She also purchased a pair of shoes, but lost the receipt for them. She has $16 left from her budget. How much did Alexis pay for the shoes?",
+  "answer_cot": "To find out how much Alexis paid for the shoes, we need to add up the cost of all the other items she purchased and subtract that total from her original budget of $200. \n\nCost of button-up shirt + suit pants + suit coat + socks + belt = $30 + $46 + $38 + $11 + $18 = $143 \n\nOriginal budget - total spent = $200 - $143 = $57 \n\nSince Alexis has $16 left from her budget, we can subtract that from the amount she had left after purchasing all the other items to find the cost of the shoes: \n\nAmount left after purchasing all other items - amount left from budget = cost of shoes \n\n$57 - $16 = $41 \n\nTherefore, Alexis paid $41 for the shoes. \n\nThe answer is <41>.",
+  "answer_value": "41"
+ },
+ {
+  "item_id": "gsm8k_9",
+  "question": "Tina makes $18.00 an hour.  If she works more than 8 hours per shift, she is eligible for overtime, which is paid by your hourly wage + 1/2 your hourly wage.  If she works 10 hours every day for 5 days, how much money does she make?",
+  "answer_cot": "To calculate Tina's total earnings, we need to find her regular pay and her overtime pay separately, and then add them together. \n\nTina earns $18.00 per hour and works 8 hours a day, so her regular pay for an 8-hour shift is:\n\n$18.00/hour x 8 hours = $<<18*8=144.00>>144.00\n\nSince Tina works 10 hours a day, she is eligible for 2 hours of overtime pay per day. Overtime pay is calculated as time and a half, so her overtime pay rate is:\n\n$18.00/hour x 0.5 = $<<18*0.5=9.00>>9.00\n\nHer total overtime pay rate is:\n\n$18.00/hour + $9.00/hour = $<<18+9=27.00>>27.00/hour\n\nTo calculate her total earnings for 5 days, we need to find her regular pay and overtime pay separately for each day and then add them together. \n\nRegular pay for 5 days:\n\n$144.00/day x 5 days = $<<144*5=720.00>>720.00\n\nOvertime pay for 5 days:\n\n$27.00/hour x 2 hours/day x 5 days = $<<27*2*5=270.00>>270.00\n\nTotal earnings for 5 days:\n\n$720.00 + $270.00 = $<<720+270=990.00>>990.00\n\nTherefore, Tina makes $990.00 if she works 10 hours every day for 5 days. \n\nThe answer is <990>.\n\nTherefore, the answer is <990>.",
+  "answer_value": "990"
+ },
+ {
+  "item_id": "gsm8k_10",
+  "question": "A deep-sea monster rises from the waters once every hundred years to feast on a ship and sate its hunger. Over three hundred years, it has consumed 847 people. Ships have been built larger over time, so each new ship has twice as many people as the last ship. How many people were on the ship the monster ate in the first hundred years?",
+  "answer_cot": "Let's assume that the number of people on the first ship was 'x'. \n\nThe second ship would have had twice as many people as the first, so it would have had 2x people. \n\nThe third ship would have had twice as many people as the second, so it would have had 2(2x) = 4x people. \n\nIn total, the monster has consumed x + 2x + 4x = 7x people over three hundred years. \n\nWe know that the monster has consumed 847 people, so we can set up the equation: \n\n7x = 847 \n\nSolving for x: \n\nx = 121 \n\nTherefore, the first ship had 121 people on it. \n\nThe answer is <121>.",
+  "answer_value": "121"
+ },
+ {
+  "item_id": "gsm8k_11",
+  "question": "Tobias is buying a new pair of shoes that costs $95. He has been saving up his money each month for the past three months. He gets a $5 allowance a month. He also mows lawns and shovels driveways. He charges $15 to mow a lawn and $7 to shovel. After buying the shoes, he has $15 in change. If he mows 4 lawns, how many driveways did he shovel?",
+  "answer_cot": "Let's start by calculating how much Tobias saved up for the shoes. \n\nThe shoes cost $95, and he had $15 in change after buying them, so he saved up a total of $110. \n\nWe know that Tobias gets a $5 allowance each month, and he has been saving up for 3 months, so he saved up an additional $15 from his allowance. \n\nNext, let's calculate how much Tobias earned from mowing lawns. \n\nHe charges $15 to mow a lawn, and he mowed 4 lawns, so he earned 4 x $15 = $<<4*15=60>>60 from mowing lawns. \n\nNow, let's calculate how much Tobias earned from shoveling driveways. \n\nWe know that Tobias saved up a total of $110, and he earned $60 from mowing lawns and $15 from his allowance, so he earned a total of $110 - $60 - $15 = $<<110-60-15=35>>35 from shoveling driveways. \n\nFinally, we can calculate how many driveways Tobias shoveled. \n\nHe charges $7 to shovel a driveway, so he shoveled 35 / 7 = <<35/7=5>>5 driveways. \n\nTherefore, Tobias shoveled 5 driveways. \n\nThe answer is <5>.\n\nTherefore, the answer is <5>.",
+  "answer_value": "5"
+ },
+ {
+  "item_id": "gsm8k_12",
+  "question": "Randy has 60 mango trees on his farm. He also has 5 less than half as many coconut trees as mango trees. How many trees does Randy have in all on his farm?",
+  "answer_cot": "Let's start by finding out how many coconut trees Randy has on his farm. \n\nHalf the number of mango trees is 60/2 = 30. \n\nFive less than half the number of mango trees is 30 - 5 = 25. \n\nTherefore, Randy has 25 coconut trees on his farm. \n\nTo find out how many trees he has in total, we can add the number of mango trees and coconut trees: \n\n60 (mango trees) + 25 (coconut trees) = 85 \n\nSo, Randy has a total of 85 trees on his farm. \n\nThe answer is <85>.",
+  "answer_value": "85"
+ },
+ {
+  "item_id": "gsm8k_13",
+  "question": "Jasper will serve charcuterie at his dinner party. He buys 2 pounds of cheddar cheese for $10, a pound of cream cheese that cost half the price of the cheddar cheese, and a pack of cold cuts that cost twice the price of the cheddar cheese. How much does he spend on the ingredients?",
+  "answer_cot": "To find out how much Jasper spent on the ingredients for his charcuterie, we need to first calculate the cost of each item. \n\nJasper bought 2 pounds of cheddar cheese for $10, so the cost per pound is:\n\n$10 \u00f7 2 pounds = $5 per pound\n\nJasper also bought a pound of cream cheese that cost half the price of the cheddar cheese, so the cost of the cream cheese is:\n\n$5 \u00f7 2 = $2.50\n\nFinally, Jasper bought a pack of cold cuts that cost twice the price of the cheddar cheese, so the cost of the cold cuts is:\n\n$10 x 2 = $20\n\nTo find the total cost of the ingredients, we just need to add up the cost of each item:\n\n$10 (cheddar cheese) + $2.50 (cream cheese) + $20 (cold cuts) = $35\n\nTherefore, Jasper spent $35 on the ingredients for his charcuterie.\n\nThe answer is <35>.",
+  "answer_value": "35"
+ },
+ {
+  "item_id": "gsm8k_14",
+  "question": "Joy can read 8 pages of a book in 20 minutes. How many hours will it take her to read 120 pages?",
+  "answer_cot": "To solve this problem, we can use the unitary method. \n\nIf Joy can read 8 pages in 20 minutes, then she can read 1 page in (20/8) minutes. \n\nSo, she can read 120 pages in (20/8) x 120 minutes. \n\nConverting minutes to hours, we get: \n\n(20/8) x 120 minutes = 300 minutes \n\nTherefore, Joy can read 120 pages in 300/60 = 5 hours. \n\nThe answer is <5 hours>.",
+  "answer_value": "5"
+ },
+ {
+  "item_id": "gsm8k_15",
+  "question": "James creates a media empire.  He creates a movie for $2000.  Each DVD cost $6 to make.  He sells it for 2.5 times that much.  He sells 500 movies a day for 5 days a week.  How much profit does he make in 20 weeks?",
+  "answer_cot": "To calculate James' profit, we need to first determine his revenue and costs. \n\nJames creates a movie for $2000. \n\nEach DVD costs $6 to make, and he sells it for 2.5 times that amount, or $6 x 2.5 = $<<6*2.5=15>>15 per DVD. \n\nSo, he makes a profit of $15 - $6 = $<<15-6=9>>9 per DVD sold. \n\nHe sells 500 movies a day for 5 days a week, so he makes a profit of $9 x 500 = $<<9*500=4500>>4500 per day. \n\nOver 5 days, he makes a profit of $4500 x 5 = $<<4500*5=22500>>22,500 per week. \n\nOver 20 weeks, he makes a profit of $22,500 x 20 = $<<22500*20=450000>>450,000. \n\nAfter subtracting the cost of creating the movie, his profit is $450,000 - $2000 = $<<450000-2000=448000>>448,000. \n\nTherefore, James makes a profit of $448,000 over 20 weeks. \n\nThe answer is <448,000>. \n\nTherefore, the answer is <448000>.",
+  "answer_value": "448000"
+ }
+]

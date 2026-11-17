@@ -1,0 +1,4 @@
+method: arix_wo_rb
+arix:
+  use_negative: true
+  alpha_neg: 5.0e-4

@@ -1,0 +1,42 @@
+method: arix
+model:
+  name_or_path: Qwen/Qwen2.5-7B-Instruct
+  torch_dtype: bfloat16
+  gradient_checkpointing: true
+data:
+  dataset: svamp
+  engine: python
+  train_file: data/svamp_python_sdp.json
+  test_file: data/svamp_test_set.json
+  exec_timeout: 5.0
+  exec_workers: 8
+training:
+  epochs: 10
+  learning_rate: 1.0e-6
+  batch_size: 32
+  group_size: 64
+  micro_batch_size: 32
+  generation_batch_size: 384
+  clip_eps: 0.2
+  kl_beta: 0.04
+  kl_estimator: k3
+  adv_eps: 1.0e-4
+  seed: 1111
+generation:
+  max_new_tokens: 512
+  temperature: 1.0
+  top_p: 1.0
+arix:
+  alpha_pos: 1.0e-3
+  tau: 0.2
+  partial_scale: 0.1
+  partial_bias: 0.2
+  bank_size: 5
+  retrieval: similarity
+  bank_update: redundancy
+  retrieval_start_epoch: 2
+  proj_dim: 64
+  pooling: softmax
+output:
+  output_dir: outputs/math/svamp_qwen25_7b
+  save_every_steps: 500

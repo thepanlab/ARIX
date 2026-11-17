@@ -1,0 +1,3 @@
+method: arix_wo_rb
+arix:
+  use_partial_reward: false
